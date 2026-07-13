@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: なんぶ電子°
 description: 近年ではAIに頼めばちょっとしたコードや設定をしてくれる便利な世の中になりましたが、そのようにして得られたものをファクトチェックしながらここにメモを残したいと思います。
 author: なんぶ電子
+permalink: /:categories/:title/
