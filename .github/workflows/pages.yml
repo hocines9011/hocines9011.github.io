@@ -41,9 +41,9 @@ jobs:
                   continue
               patched = text
               if a:
-                  patched = patched.replace('<!-- 393e995a6a0aa5923625980a309069f6e58965a0 -->', a)
+                  patched = patched.replace('<!-- 2fa34f531b313933a27d04b47475347812a72ee7 -->', a)
               if b:
-                  patched = patched.replace('<!--  -->', b)
+                  patched = patched.replace('<!-- f14afd293e2438e0a45e8127b7e104921d -->', b)
               if patched != text:
                   html.write_text(patched, encoding='utf-8')
                   total += 1
